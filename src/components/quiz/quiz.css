@@ -45,3 +45,11 @@
   margin: auto;
   font-size: 18px;
 }
+.container .correct {
+  background-color: #00d397;
+  background: #dffff2;
+}
+.container .wrong {
+  background-color: #ff4a4a;
+  background: #ffebeb;
+}
